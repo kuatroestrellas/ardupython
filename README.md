@@ -1,1 +1,1 @@
-# simple hola mundo, ardino con ordenes desde python via bletooth 
+# simple hola mundo, arduino con ordenes desde python via bletooth 
